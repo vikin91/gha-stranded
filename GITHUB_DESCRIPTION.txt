@@ -1,0 +1,1 @@
+Find StackRox PRs blocked by missing required GitHub Actions checks and stranded queued workflows. Prints recovery commands to try; never changes CI.
